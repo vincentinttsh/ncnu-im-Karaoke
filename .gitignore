@@ -1,0 +1,6 @@
+db.sqlite3
+.vscode/
+static/js/
+static/css/
+static/admin/
+run.ini
